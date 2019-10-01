@@ -5,7 +5,7 @@
 ### Sample Works:
 
 #### [APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)<br>
-<img src="images/API Sample Image.jpeg?raw=true"/>
+<img src="images/ApiTestingSample2.png?raw=true"/>
 
 ---
 #### [NunitWithAllureReporting](/NunitWithAllureReporting/)<br>
