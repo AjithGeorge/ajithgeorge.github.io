@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Sample Works
 
-[Project 1 Title](/sample_page)
+[APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NunitWithAllureReporting](/NunitWithAllureReporting/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
