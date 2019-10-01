@@ -4,11 +4,11 @@
 
 ### Sample Works
 
-[APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)
+#### [APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)<br>
 <img src="images/API Sample Image.jpeg?raw=true"/>
 
 ---
-[NunitWithAllureReporting](/NunitWithAllureReporting/)
+#### [NunitWithAllureReporting](/NunitWithAllureReporting/)<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
