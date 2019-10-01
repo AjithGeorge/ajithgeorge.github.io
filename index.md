@@ -2,7 +2,7 @@
 
 ---
 
-### Sample Works
+### Sample Works:
 
 #### [APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)<br>
 <img src="images/API Sample Image.jpeg?raw=true"/>
