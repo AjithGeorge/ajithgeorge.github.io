@@ -9,7 +9,7 @@
 
 ---
 #### [NunitWithAllureReporting](/NunitWithAllureReporting/)<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AllureReportSample2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
