@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+<!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,7 +26,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+-->
 
 ### Skillset
 - Programming Languages: C#, Python
