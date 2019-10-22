@@ -34,7 +34,6 @@
 - **Robotic Process Automation (RPA) - UiPath (Expert), Nintex Foxtort(Intermediate)**
 - **Test Frameworks: Robot Framework, Nunit, Allure, ExtentCore/ExtentReports**
 - **Automation Tools: Selenium**
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 
 
