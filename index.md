@@ -30,10 +30,12 @@
 
 #### Skillset
 - **Programming Languages: C#, Python**
-- **Database Management Language: SQL**
+- **Database Management: SQL**
 - **Robotic Process Automation (RPA) - UiPath (Expert), Nintex Foxtort(Intermediate)**
 - **Test Frameworks: Robot Framework, Nunit, Allure, ExtentCore/ExtentReports**
 - **Automation Tools: Selenium**
+- **Source Control: Git**
+- **Application Types: .Net,Python,Embedded C,linux,Angular**
 
 
 
