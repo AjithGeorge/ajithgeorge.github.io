@@ -3,7 +3,8 @@
 ---
 ### Highlights:
 
-Medium Article -[Convenience of Postman for API Testing](https://medium.com/@ajithgeorgethekkel/convenience-of-postman-for-api-testing-f9b78982c80d) 
+[Convenience of Postman for API Testing](https://medium.com/@ajithgeorgethekkel/convenience-of-postman-for-api-testing-f9b78982c80d) - Medium Article <br><br>
+[Postman Scripts to use Azure Active Directory Authentication](https://medium.com/@ajithgeorgethekkel/postman-scripts-to-use-azure-active-directory-authentication-c69e8ba2fb2a) -Medium Article
 
 
 ---
@@ -35,13 +36,18 @@ Medium Article -[Convenience of Postman for API Testing](https://medium.com/@aji
 -->
 
 #### Skillset
-- **Programming Languages: C#, Python**
+- **Programming Languages: Java, JavasScript, C#, Python**
 - **Database Management: SQL**
 - **Robotic Process Automation (RPA) - UiPath (Expert), Nintex Foxtort(Intermediate)**
-- **Test Frameworks: Robot Framework, Nunit, Allure, ExtentCore/ExtentReports**
-- **Automation Tools: Selenium**
-- **Source Control: Git**
-- **Application Types: .Net,Python,Embedded C,linux,Angular**
+- **Test Frameworks: TestNg, Robot Framework, Nunit, MSTest**
+- **Automation Tools: Selenium,Postman,Newman**
+- **Source Control: Git, Azure DevOps, BitBucket**
+- **Application Types: .Net,Python,linux,Java,Node,JavaScript,Angular**
+- **Cloud Technology: Azure,GCP**
+- **CI/CD: Azure DevOps, Jenkins**
+- **Monitoring Tools: Grafana, Kibana**
+- **Reporting: Allure, ExtentReports, HtmlExtra**
+
 
 
 
