@@ -4,6 +4,11 @@
 
 ### Sample Works:
 
+#### >> [Postman-API-Test-Automation-With-Azure-Pipeline](/API-Automation-Postman/)<br>
+<img src="images/pipeline.png?raw=true"/>
+
+---
+
 #### >> [APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)<br>
 <img src="images/ApiTestingSample2.png?raw=true"/>
 
@@ -12,8 +17,6 @@
 <img src="images/AllureReportSample2.png?raw=true"/>
 
 ---
-#### >> [RobotFramework -POC](/RFW-POC/)<br>
-<img src="images/RobotFrameWorkSample.png?raw=true"/>
 
 ---
 
