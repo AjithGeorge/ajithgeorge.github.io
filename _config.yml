@@ -7,9 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Explore - Dream - Discover
   <br><br>
-  <a href="https://www.linkedin.com/in/ajith-george92/">View My LinkedIn Profile</a> 
-  <br>
-  <a href="https://medium.com/@ajithgeorgethekkel">View My Medium Articles</a> 
+  <a href="https://www.linkedin.com/in/ajith-george92/">LinkedIn Profile</a> || <a href="https://medium.com/@ajithgeorgethekkel">Medium Articles</a> 
   <br><br>
 
 theme: jekyll-theme-minimal
