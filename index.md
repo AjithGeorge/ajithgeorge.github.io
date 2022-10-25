@@ -1,22 +1,25 @@
 ## Portfolio
 
 ---
+### Highlights:
 
+Medium Article -[Convenience of Postman for API Testing](https://medium.com/@ajithgeorgethekkel/convenience-of-postman-for-api-testing-f9b78982c80d) 
+
+
+---
 ### Sample Works:
 
 #### >> [Postman-API-Test-Automation-With-Azure-Pipeline](/API-Automation-Postman/)<br>
-<img src="images/pipeline.png?raw=true"/>
+<img src="images/PostmanInPipeline.png?raw=true"/>
 
 ---
 
 #### >> [APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)<br>
-<img src="images/ApiTestingSample2.png?raw=true"/>
+<img src="images/ApiTestingSample3.png?raw=true"/>
 
 ---
 #### >> [NunitWithAllureReporting](/NunitWithAllureReporting/)<br>
-<img src="images/AllureReportSample2.png?raw=true"/>
-
----
+<img src="images/AllureReportSample3.png?raw=true"/>
 
 ---
 
