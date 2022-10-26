@@ -17,7 +17,7 @@
 
 ---
 ### About Me:
-_I like to believe we are only limited by imagination, not by technology. There is a solution, there is a technology.. out there somewhre. If there is a documentation, with a bit of stackoverflow and some community help, well., we can can make anything happen!!_
+_I like to believe we are only limited by imagination, not by technology. There is a solution, there is a technology.. out there somewhre. With the official documentation, a bit of stackoverflow and some community help, well., we can can make anything happen!!_
 
 _Not constrained to any programming language -Master of none, slayer of many, not a syntax guru, like to rely on IDE for the autocorrected code. Like to follow general coding standards, minimal comments, self explainable bit of code (or no code)._
 
