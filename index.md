@@ -15,6 +15,13 @@
 [Convenience of Postman for API Testing](https://medium.com/@ajithgeorgethekkel/convenience-of-postman-for-api-testing-f9b78982c80d) <br><br>
 [Postman Scripts to use Azure Active Directory Authentication](https://medium.com/@ajithgeorgethekkel/postman-scripts-to-use-azure-active-directory-authentication-c69e8ba2fb2a) 
 
+---
+### About Me:
+_I like to believe we are only limited by imagination, not by technology. There is a solution, there is a technology.. out there somewhre. If there is a documentation, with a bit of stackoverflow and some community help, well., we can can make anything happen!!_
+
+_Not constrained to any programming language -Master of none, slayer of many, not a syntax guru, like to rely on IDE for the autocorrected code. Like to follow general coding standards, minimal comments, self explainable bit of code (or no code)._
+
+_If you can define the problem well, I can provide the solution! Or simply, you make it, I break it and let no one else break it!!_
 
 ---
 ### Sample Works:
