@@ -3,8 +3,17 @@
 ---
 ### Highlights:
 
-[Convenience of Postman for API Testing](https://medium.com/@ajithgeorgethekkel/convenience-of-postman-for-api-testing-f9b78982c80d) - Medium Article <br><br>
-[Postman Scripts to use Azure Active Directory Authentication](https://medium.com/@ajithgeorgethekkel/postman-scripts-to-use-azure-active-directory-authentication-c69e8ba2fb2a) -Medium Article
+ [<img src="images/az-900.png?raw=true">](https://www.credly.com/badges/b4116be9-0369-4dfe-b600-e3b47e8fdb57?source=linked_in_profile) 
+ [<img src="images/az-400.png?raw=true">](https://www.credly.com/badges/b3632315-8fd4-4063-8bcf-875279c0d573?source=linked_in_profile) 
+ [<img src="images/gcp.png?raw=true">](https://www.credential.net/1bdddb0a-161a-4e4e-a1eb-6dfdb386f42c) 
+ <img src="images/uiPath.png?raw=true">
+ 
+ 
+---
+### Articles:
+
+[Convenience of Postman for API Testing](https://medium.com/@ajithgeorgethekkel/convenience-of-postman-for-api-testing-f9b78982c80d) <br><br>
+[Postman Scripts to use Azure Active Directory Authentication](https://medium.com/@ajithgeorgethekkel/postman-scripts-to-use-azure-active-directory-authentication-c69e8ba2fb2a) 
 
 
 ---
