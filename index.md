@@ -27,7 +27,7 @@ _If you can define the problem well, I can provide the solution! Or simply, you 
 ### Sample Works:
 
 #### >> [Postman-API-Test-Automation-With-Azure-Pipeline](/API-Automation-Postman/)<br>
-<img src="images/PostmanInPipeline.png?raw=true"/>
+<img src="images/pmAutomation.png?raw=true"/>
 
 ---
 
