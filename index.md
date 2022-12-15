@@ -30,6 +30,10 @@ _If you can define the problem well, I can provide the solution! Or simply, you 
 <img src="images/pmAutomation.png?raw=true"/>
 
 ---
+#### >> [NewmanAsLibraryInNodeProject](/NewmanAsLibraryInNodeProject/)<br>
+<img src="images/nodeImage.png?raw=true"/>
+
+---
 
 #### >> [APITestingWithNunitAndExtentCoreReporting](/APITestingWithNunitAndExtentCoreReporting/)<br>
 <img src="images/ApiTestingSample3.png?raw=true"/>
