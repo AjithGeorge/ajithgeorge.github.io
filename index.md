@@ -26,11 +26,11 @@ _If you can define the problem well, I can provide the solution! Or simply, you 
 ---
 ### Sample Works:
 
-#### >> [Postman-API-Test-Automation-With-Azure-Pipeline](/API-Automation-Postman/)<br>
+#### >> [Postman-API-Test-Automation-With-Azure-Pipeline](/ApiAutomationUsingPostmanAndNewmanWithHtmlExtraAndAzurePipelines/)<br>
 <img src="images/pmAutomation.png?raw=true"/>
 
 ---
-#### >> [NewmanAsLibraryInNodeProject](/NewmanAsLibraryInNodeProject/)<br>
+#### >> [NewmanAsLibraryInNodeProject](https://github.com/AjithGeorge/NewmanAsLibraryInNodeProject)<br>
 <img src="images/nodeImage.png?raw=true"/>
 
 ---
